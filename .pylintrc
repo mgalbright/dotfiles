@@ -1,0 +1,9 @@
+[MESSAGES CONTROL]
+#Can enable/disable certain warnings.  Here are popular codes:
+#  C0111 Missing docstring
+#  C0103 Invalid name
+#  C0301 Line too long
+#  C0303 trailing whitespace
+#  W0311 bad indentation
+#Disable some warnings:
+disable=C0111,C0103,C0301,W0311,
