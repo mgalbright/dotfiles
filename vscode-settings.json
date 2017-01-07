@@ -1,4 +1,7 @@
 // Place your settings in this file to overwrite the default settings
+//
+//enable/disable linting in python with line 
+//  python.linting.enabled": true,
 {
     "editor.fontSize": 16,
     "editor.tabSize": 2,
@@ -9,6 +12,6 @@
     "**/.hg": true,
     "**/.DS_Store": true
   },
-    "python.linting.enabled": true, //enable/disable linting in python
+    "python.linting.enabled": true, 
     "python.linting.pylintEnabled": true,
 }
