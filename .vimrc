@@ -31,7 +31,7 @@
 "
 "To reinstall packages (with Vundle) or update vim settings:
 "1) open vim and go to command mode and type (: is not typed below)
-"    :source ~/.bashrc
+"    :source ~/.vimrc
 "2) From the command mode, tell Vundle to reinstall all packages:
 "    :PluginInstall
 "
