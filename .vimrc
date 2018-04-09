@@ -1,5 +1,7 @@
 "quick vim cheat sheet:
 "  go to end, beginning of line:   $  ,  ^
+"  go to beginning/end of line (on Macs): fn + left/right arrow
+"  page up/down (on Macs): fn + up/down arrow
 "  Move left/right faster: shift + left/right arrow
 "  undo, redo:  u  ,  Ctrl+R
 "

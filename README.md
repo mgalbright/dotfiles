@@ -1,5 +1,10 @@
-# settings-files-for-development
-A copy of my settings files (like .vimrc, .bash_profile, sublime settings, ...).
+# Dotfiles
 
-(Posting a copy here to help me quickly customize my dev environment in 
-new *nix machines, VM's, etc.  Making it public for easier access.)
+A copy of my dotfiles.
+
+-----------------------------
+### Jupyter Themes
+[Jupyter Themes](https://github.com/dunovank/jupyter-themes) setting: 
+```bash
+jt -t grade3 -cellw 90% -T -fs 13 -nfs 13
+```
