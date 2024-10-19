@@ -1,0 +1,13 @@
+{
+  "editor.accessibilitySupport": "off",
+  "editor.fontSize": 17,
+  "editor.rulers": [
+    80
+  ],
+  "editor.tabSize": 2,
+  "terminal.integrated.env.osx": {
+    "CW_NEW_SESSION": "1",
+    "Q_NEW_SESSION": "1"
+  },
+  "window.zoomLevel": -1
+}
