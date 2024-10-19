@@ -13,10 +13,10 @@ for file in $vscode_files; do
   cp "$vscode_settings_folder/$file" $HOME/.backup_dotfiles/vscode/
 done
 
-#echo "copying new dotfiles"
-# for file in $files; do
-#   cp ./$file $HOME/$file
-# done
-# for file in $vscode_files; do
-#   cp ./$file "$vscode_settings_folder/$file"
-# done
+echo "copying new dotfiles"
+for file in $files; do
+  cp ./$file $HOME/$file
+done
+for file in $vscode_files; do
+  cp ./$file "$vscode_settings_folder/$file"
+done
